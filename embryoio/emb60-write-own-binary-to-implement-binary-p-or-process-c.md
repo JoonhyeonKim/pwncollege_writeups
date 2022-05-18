@@ -1,0 +1,10 @@
+# 🟢 emb60: write own binary to implement 'binary(p)| process(c)'
+
+![Again, it is time for me to write my own binary.](<../.gitbook/assets/image (31).png>)
+
+![when fork() gives you pid 0, then you are a child](<../.gitbook/assets/image (24).png>)
+
+![now it successes. but I need to know parent-child relation.](<../.gitbook/assets/image (176).png>)
+
+![](<../.gitbook/assets/image (191).png>)
+
