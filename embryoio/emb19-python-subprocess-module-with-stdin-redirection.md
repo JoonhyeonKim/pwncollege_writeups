@@ -2,7 +2,7 @@
 
 then maybe I should use like proc = subprocess.Popen(\["command"]); proc.stdin.write("file\_path")
 
-![](<../.gitbook/assets/image (239).png>)
+![](<../.gitbook/assets/image (239) (1).png>)
 
 {% embed url="https://stackoverflow.com/questions/8475290/how-do-i-write-to-a-python-subprocess-stdin" %}
 

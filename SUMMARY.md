@@ -88,3 +88,4 @@
   * [🟢 emb67: binary execution by 'find -exec' with command arg #](embryoio/emb67-binary-execution-by-find-exec-with-command-arg/README.md)
     * [🟢 emb67](embryoio/emb67-binary-execution-by-find-exec-with-command-arg/emb67.md)
   * [🟢 emb68: bash script with arguments stream, printf](embryoio/emb68-bash-script-with-arguments-stream-printf.md)
+  * [🟢 emb69: Make own interpreter for shell script #](embryoio/emb69-make-own-interpreter-for-shell-script.md)
