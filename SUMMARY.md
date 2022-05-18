@@ -86,4 +86,4 @@
   * [emb65: write own binary to implement 'process(c)|binary(p)'](embryoio/emb65-write-own-binary-to-implement-process-c-or-binary-p.md)
   * [emb66: find the binary and then execute it. 'find -exec'](embryoio/emb66-find-the-binary-and-then-execute-it.-find-exec.md)
   * [🟢 emb67: binary execution by 'find -exec' with arg #](embryoio/emb67-binary-execution-by-find-exec-with-arg/README.md)
-    * [emb67](embryoio/emb67-binary-execution-by-find-exec-with-arg/emb67.md)
+    * [🟢 emb67](embryoio/emb67-binary-execution-by-find-exec-with-arg/emb67.md)

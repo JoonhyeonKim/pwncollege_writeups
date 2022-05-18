@@ -1,6 +1,6 @@
-# emb67
+# 🟢 emb67
 
-find /PATH \[args of find] -exec \[cmd executed with the found, cmd's arg] {} \\;
+**find /PATH \[args of find] -exec \[cmd executed with the found, cmd's arg] {} \\;**
 
 thus
 
