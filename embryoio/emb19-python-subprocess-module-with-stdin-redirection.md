@@ -30,7 +30,7 @@ maybe this
 
 {% embed url="https://flexiple.com/python-create-file" %}
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28) (1).png>)
 
 ![](<../.gitbook/assets/image (180).png>)
 

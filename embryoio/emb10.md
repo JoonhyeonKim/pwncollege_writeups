@@ -6,4 +6,4 @@
 
 ![](<../.gitbook/assets/image (113).png>)
 
-![Since it is non-interactive shell](<../.gitbook/assets/image (189).png>)
+![Since it is non-interactive shell](<../.gitbook/assets/image (189) (1).png>)

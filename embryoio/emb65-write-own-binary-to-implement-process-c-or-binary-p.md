@@ -2,7 +2,7 @@
 
 ![Again run with a previous example. So I learn that I need to execute 'rev'](<../.gitbook/assets/image (2).png>)
 
-![So I remedied my source code.](<../.gitbook/assets/image (38).png>)
+![So I remedied my source code.](<../.gitbook/assets/image (38) (1).png>)
 
 ![](<../.gitbook/assets/image (8).png>)
 

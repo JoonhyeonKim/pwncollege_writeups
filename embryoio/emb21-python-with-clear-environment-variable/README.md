@@ -1,6 +1,6 @@
 # emb21: python with clear environment variable
 
-![](<../../.gitbook/assets/image (185).png>)
+![](<../../.gitbook/assets/image (185) (1).png>)
 
 ![](<../../.gitbook/assets/image (115).png>)
 
@@ -24,4 +24,4 @@ then env -i python also possible?
 
 I am not sure
 
-![](<../../.gitbook/assets/image (179).png>)
+![](<../../.gitbook/assets/image (179) (1).png>)
