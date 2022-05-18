@@ -1,6 +1,6 @@
 # emb64: write own binary to implement 'process(c)| binary(p)'
 
-![I made a general embryoio solution. For sed -n 'p' shows all results.](<../.gitbook/assets/image (82).png>)
+![I made a general embryoio solution. For sed -n 'p' shows all results.](<../.gitbook/assets/image (82) (1).png>)
 
 ![Now I need to do stdin redirection.](<../.gitbook/assets/image (14).png>)
 
