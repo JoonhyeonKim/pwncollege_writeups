@@ -2,4 +2,4 @@
 
 ![binary to grep](<../.gitbook/assets/image (120).png>)
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
