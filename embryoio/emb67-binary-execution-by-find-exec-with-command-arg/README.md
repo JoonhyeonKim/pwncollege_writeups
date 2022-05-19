@@ -1,4 +1,4 @@
-# 🟢 emb67: binary execution by 'find -exec' with arg \#
+# 🟢 emb67: binary execution by 'find -exec' with command arg \#
 
 ![Run a test binary shows that I need to execute 'find'](<../../.gitbook/assets/image (179).png>)
 
@@ -26,7 +26,7 @@
 
 ![](<../../.gitbook/assets/image (189).png>)
 
-![](<../../.gitbook/assets/image (185).png>)
+![](<../../.gitbook/assets/image (185) (1).png>)
 
 
 

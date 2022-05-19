@@ -89,3 +89,5 @@
     * [🟢 emb67](embryoio/emb67-binary-execution-by-find-exec-with-command-arg/emb67.md)
   * [🟢 emb68: bash script with arguments stream, printf](embryoio/emb68-bash-script-with-arguments-stream-printf.md)
   * [🟢 emb69: Make own interpreter for shell script #](embryoio/emb69-make-own-interpreter-for-shell-script.md)
+  * [🟢 emb70: Set a numeric environment variable in c](embryoio/emb70-set-a-numeric-environment-variable-in-c.md)
+  * [🟢 emb70#](embryoio/emb70.md)

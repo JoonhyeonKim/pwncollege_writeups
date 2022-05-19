@@ -1,6 +1,6 @@
 # emb21: python with clear environment variable
 
-![](<../../.gitbook/assets/image (185) (1).png>)
+![](<../../.gitbook/assets/image (185) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (115).png>)
 
