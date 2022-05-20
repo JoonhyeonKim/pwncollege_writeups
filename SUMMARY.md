@@ -93,3 +93,4 @@
   * [🟢 emb70#](embryoio/emb70.md)
   * [🔴 emb71: Write own interpreter, Pass multiple specific argv, env](embryoio/emb71-write-own-interpreter-pass-multiple-specific-argv-env.md)
   * [🔴 emb72: stdin,stdout,stderr redirection in c](embryoio/emb72-stdin-stdout-stderr-redirection-in-c.md)
+  * [🟢 emb73: bash -c, change the directory of child process.](embryoio/emb73-bash-c-change-the-directory-of-child-process..md)

@@ -32,7 +32,7 @@ maybe this
 
 ![](<../.gitbook/assets/image (28) (1).png>)
 
-![](<../.gitbook/assets/image (180).png>)
+![](<../.gitbook/assets/image (180) (1).png>)
 
 {% embed url="https://pynative.com/python-create-file" %}
 

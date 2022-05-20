@@ -8,6 +8,6 @@ rev use case
 another
 {% endembed %}
 
-![rev reverses one line](<../.gitbook/assets/image (122).png>)
+![rev reverses one line](<../.gitbook/assets/image (122) (1).png>)
 
 ![](<../.gitbook/assets/image (103).png>)

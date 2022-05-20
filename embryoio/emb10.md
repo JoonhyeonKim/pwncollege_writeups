@@ -1,6 +1,6 @@
 # emb10
 
-![needs argv\[1\](first argument)](<../.gitbook/assets/image (108).png>)
+![needs argv\[1\](first argument)](<../.gitbook/assets/image (108) (1).png>)
 
 ![](<../.gitbook/assets/image (87).png>)
 
