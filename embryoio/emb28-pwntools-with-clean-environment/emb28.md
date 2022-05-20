@@ -1,6 +1,6 @@
 # emb28
 
-![](<../../.gitbook/assets/image (227).png>)
+![](<../../.gitbook/assets/image (227) (1).png>)
 
 \#! /bin/sh&#x20;
 

@@ -14,4 +14,4 @@ But seems bit convoluted.
 
 So do the easier way
 
-![](<../.gitbook/assets/image (142) (1).png>)
+![](<../.gitbook/assets/image (142) (1) (1).png>)
