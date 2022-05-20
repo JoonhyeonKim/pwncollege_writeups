@@ -4,4 +4,4 @@
 
 ![So I used sed](<../.gitbook/assets/image (233).png>)
 
-![Then the answer](<../.gitbook/assets/image (70).png>)
+![Then the answer](<../.gitbook/assets/image (70) (1).png>)

@@ -1,4 +1,4 @@
-# 🔴 emb72: stdin,stdout,stderr redirection in c
+# 🔴 emb72: stdin,stdout,stderr redirection in c \#
 
 ![stdin redirection is required, then process| challenge\_executable ??](<../.gitbook/assets/image (119).png>)
 
@@ -6,7 +6,7 @@
 C Tutorial: I/O Redirection
 {% endembed %}
 
-![](<../.gitbook/assets/image (52).png>)
+![](<../.gitbook/assets/image (52) (1).png>)
 
 file descriptor: 0 => stdin, 1=> stdout, 2=> stderr
 

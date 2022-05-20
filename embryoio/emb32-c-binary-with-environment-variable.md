@@ -6,7 +6,7 @@ But maybe one can use this
 
 {% embed url="https://stackoverflow.com/questions/3416638/set-environment-variables-in-c" %}
 
-![](<../.gitbook/assets/image (73).png>)
+![](<../.gitbook/assets/image (73) (1).png>)
 
 or this
 
