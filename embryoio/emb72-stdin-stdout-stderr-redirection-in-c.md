@@ -9,3 +9,7 @@ C Tutorial: I/O Redirection
 ![](<../.gitbook/assets/image (52).png>)
 
 file descriptor: 0 => stdin, 1=> stdout, 2=> stderr
+
+{% embed url="https://stackoverflow.com/questions/3495092/read-from-file-or-stdin" %}
+
+{% embed url="https://www.codegrepper.com/code-examples/c/input+a+file+from+stdin+in+c" %}
