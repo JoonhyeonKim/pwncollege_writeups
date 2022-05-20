@@ -2,7 +2,7 @@
 
 ![I executed emb62 that I compiled before. and that gives me this result: I need 'rev'](<../.gitbook/assets/image (133).png>)
 
-![After changing the grand child's process to rev I got this.](<../.gitbook/assets/image (72).png>)
+![After changing the grand child's process to rev I got this.](<../.gitbook/assets/image (72) (1).png>)
 
 ![and send the raw flag to flag file](<../.gitbook/assets/image (80).png>)
 

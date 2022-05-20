@@ -1,4 +1,4 @@
-# emb33: c binary with stdin redirection
+# 🟢 emb33: c binary with stdin redirection
 
 Easier way
 

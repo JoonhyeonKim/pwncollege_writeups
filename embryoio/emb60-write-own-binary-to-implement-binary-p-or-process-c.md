@@ -6,5 +6,5 @@
 
 ![now it successes. but I need to know parent-child relation.](<../.gitbook/assets/image (176).png>)
 
-![](<../.gitbook/assets/image (191).png>)
+![](<../.gitbook/assets/image (191) (1).png>)
 

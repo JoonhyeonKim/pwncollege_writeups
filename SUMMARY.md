@@ -48,7 +48,7 @@
   * [emb31: c binary with argv\[\]](embryoio/emb31-c-binary-with-argv.md)
   * [emb32: c binary with environment variable](embryoio/emb32-c-binary-with-environment-variable.md)
   * [File Manipulation in C](embryoio/file-manipulation-in-c.md)
-  * [emb33: c binary with stdin redirection](embryoio/emb33-c-binary-with-stdin-redirection.md)
+  * [🟢 emb33: c binary with stdin redirection](embryoio/emb33-c-binary-with-stdin-redirection.md)
   * [emb34: c binary with stdout redirection](embryoio/emb34-c-binary-with-stdout-redirection.md)
   * [emb35: c binary execution in clean environment](embryoio/emb35-c-binary-execution-in-clean-environment.md)
   * [emb36: Pipe to redirect stdout to other process, cat](embryoio/emb36-pipe-to-redirect-stdout-to-other-process-cat.md)
