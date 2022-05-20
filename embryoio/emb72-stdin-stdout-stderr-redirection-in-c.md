@@ -13,3 +13,5 @@ file descriptor: 0 => stdin, 1=> stdout, 2=> stderr
 {% embed url="https://stackoverflow.com/questions/3495092/read-from-file-or-stdin" %}
 
 {% embed url="https://www.codegrepper.com/code-examples/c/input+a+file+from+stdin+in+c" %}
+
+{% embed url="https://cboard.cprogramming.com/cplusplus-programming/178005-reading-text-file-stdin.html" %}
