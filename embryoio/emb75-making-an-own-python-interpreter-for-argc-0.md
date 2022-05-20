@@ -17,3 +17,7 @@ probably?
 ![Then with this source code](<../.gitbook/assets/image (180).png>)
 
 ![Run the python script.](<../.gitbook/assets/image (175).png>)
+
+is that mean all the interpreter can be somehow hijacked?
+
+I guess.
