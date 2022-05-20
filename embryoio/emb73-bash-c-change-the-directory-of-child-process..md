@@ -1,6 +1,6 @@
 # 🟢 emb73: bash -c, change the directory of child process.
 
-![](<../.gitbook/assets/image (180).png>)
+![](<../.gitbook/assets/image (180) (1).png>)
 
 ![](<../.gitbook/assets/image (137).png>)
 

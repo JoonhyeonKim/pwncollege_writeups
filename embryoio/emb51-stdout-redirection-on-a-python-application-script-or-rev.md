@@ -6,7 +6,7 @@ To achive rev | rev |, one should send EOF in script
 &#x20;you can send it an EOF mark with `p.send(b'\4')`
 {% endembed %}
 
-![](<../.gitbook/assets/image (23) (1).png>)
+![](<../.gitbook/assets/image (23) (1) (1).png>)
 
 But seems bit convoluted.
 
