@@ -4,4 +4,4 @@
 
 Then you should send **Ctrl + D**: delimiter sending. End the command line
 
-![](<../../.gitbook/assets/image (55).png>)
+![](<../../.gitbook/assets/image (55) (1).png>)

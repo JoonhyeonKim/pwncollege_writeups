@@ -24,7 +24,7 @@ maybe this
 
 ![](<../.gitbook/assets/image (220).png>)
 
-![](<../.gitbook/assets/image (240).png>)
+![](<../.gitbook/assets/image (240) (1).png>)
 
 {% embed url="http://theautomatic.net/2017/08/31/file-manipulation-with-python" %}
 
