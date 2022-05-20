@@ -92,4 +92,4 @@
   * [🟢 emb70: Set a numeric environment variable in c](embryoio/emb70-set-a-numeric-environment-variable-in-c.md)
   * [🟢 emb70#](embryoio/emb70.md)
   * [🔴 emb71: Write own interpreter, Pass multiple specific argv, env](embryoio/emb71-write-own-interpreter-pass-multiple-specific-argv-env.md)
-  * [emb72](embryoio/emb72.md)
+  * [🔴 emb72: stdin,stdout,stderr redirection in c](embryoio/emb72-stdin-stdout-stderr-redirection-in-c.md)
