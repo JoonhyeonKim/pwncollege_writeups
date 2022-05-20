@@ -9,3 +9,11 @@
 ![Change the directory of child process. ](<../.gitbook/assets/image (122).png>)
 
 ![So I get the flag.](<../.gitbook/assets/image (213).png>)
+
+char \*nameofargv\[] = {}
+
+char \*nameofenv\[] = {}
+
+chdir(): change the working directory of current process
+
+open(): file open
