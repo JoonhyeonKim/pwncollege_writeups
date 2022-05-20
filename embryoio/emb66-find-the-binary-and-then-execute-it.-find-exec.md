@@ -18,4 +18,4 @@ Then probably, would it be like this?
 
 ![find PATH -option -exec {} \\;](<../.gitbook/assets/image (98).png>)
 
-![So it works as shown in GTFO bin](<../.gitbook/assets/image (7).png>)
+![So it works as shown in GTFO bin](<../.gitbook/assets/image (7) (1).png>)

@@ -18,10 +18,10 @@
 
 ![Display partial text of a file](<../../.gitbook/assets/image (92).png>)
 
-![Display all contents except particular lines](<../../.gitbook/assets/image (7) (1).png>)
+![Display all contents except particular lines](<../../.gitbook/assets/image (7) (1) (1).png>)
 
 ![Display all lines except pattern matching line](<../../.gitbook/assets/image (5).png>)
 
-![Display replaced lines](<../../.gitbook/assets/image (217).png>)
+![Display replaced lines](<../../.gitbook/assets/image (217) (1).png>)
 
 ![](<../../.gitbook/assets/image (231).png>)
