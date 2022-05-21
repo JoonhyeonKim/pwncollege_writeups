@@ -14,7 +14,7 @@
 
 ![replace from nth occurrence onward to the end](<../../.gitbook/assets/image (68).png>)
 
-![search and replace a string on a specified line number](<../../.gitbook/assets/image (145).png>)
+![search and replace a string on a specified line number](<../../.gitbook/assets/image (145) (1).png>)
 
 ![Display partial text of a file](<../../.gitbook/assets/image (92).png>)
 
