@@ -4,6 +4,6 @@
 
 ![So I changed.](<../.gitbook/assets/image (170).png>)
 
-![I got the flag.](<../.gitbook/assets/image (40).png>)
+![I got the flag.](<../.gitbook/assets/image (40) (1).png>)
 
 ![challenge(parent) | process(child)](<../.gitbook/assets/image (51).png>)

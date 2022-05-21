@@ -103,3 +103,4 @@
   * [emb80: Multiple Specific argv for binary](embryoio/emb80.md)
   * [emb81: Set argc==0 for bin](embryoio/emb81.md)
   * [emb82: Set the environment in c source code](embryoio/emb82-set-the-environment-in-c-source-code.md)
+  * [emb83](embryoio/emb83.md)
