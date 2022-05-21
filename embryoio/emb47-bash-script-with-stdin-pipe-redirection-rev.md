@@ -6,4 +6,4 @@ description: reversed string sent, thus must send EOF(CTRL+D)
 
 ![To send reversed password ](<../.gitbook/assets/image (16).png>)
 
-![while you must send EOF(ctrl+D), for rev send letters 'reversed'!!](<../.gitbook/assets/image (137) (1).png>)
+![while you must send EOF(ctrl+D), for rev send letters 'reversed'!!](<../.gitbook/assets/image (137) (1) (1).png>)

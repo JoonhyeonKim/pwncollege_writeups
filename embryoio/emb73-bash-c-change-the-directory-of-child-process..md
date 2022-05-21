@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/image (180) (1).png>)
 
-![](<../.gitbook/assets/image (137).png>)
+![](<../.gitbook/assets/image (137) (1).png>)
 
 ![bash -c or sh -c. ](<../.gitbook/assets/image (108).png>)
 

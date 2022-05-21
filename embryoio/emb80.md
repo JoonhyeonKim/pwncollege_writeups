@@ -1,4 +1,4 @@
-# emb80
+# emb80: Multiple Specific argv for binary
 
 ![So it is another binary challenge](<../.gitbook/assets/image (220).png>)
 
