@@ -100,4 +100,5 @@
   * [emb77: set multiple argv and env variable in python pwntools](embryoio/emb77-set-multiple-argv-and-env-variable-in-python-pwntools.md)
   * [emb78: stdin redirection for python script](embryoio/emb78-stdin-redirection-for-python-script.md)
   * [emb79: child and parent having different wd](embryoio/emb79-child-and-parent-having-different-wd.md)
-  * [emb80](embryoio/emb80.md)
+  * [emb80: Multiple Specific argv for binary](embryoio/emb80-multiple-specific-argv-for-binary.md)
+  * [emb81](embryoio/emb81.md)
