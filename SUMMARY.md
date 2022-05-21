@@ -98,3 +98,4 @@
   * [🔴 emb75: Making an own python interpreter for argc==0](embryoio/emb75-making-an-own-python-interpreter-for-argc-0.md)
   * [emb76: Set specific env\[\] on either python or interpreter](embryoio/emb76-set-specific-env-on-either-python-or-interpreter.md)
   * [emb77: set multiple argv and env variable in python pwntools](embryoio/emb77-set-multiple-argv-and-env-variable-in-python-pwntools.md)
+  * [emb78: stdin redirection for python script](embryoio/emb78-stdin-redirection-for-python-script.md)

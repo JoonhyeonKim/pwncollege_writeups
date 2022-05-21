@@ -10,4 +10,4 @@ has identical effect as
 
 process(\[cmd], env={})
 
-![](<../../.gitbook/assets/image (74).png>)
+![](<../../.gitbook/assets/image (74) (1).png>)
