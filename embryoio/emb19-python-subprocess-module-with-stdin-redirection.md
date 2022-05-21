@@ -22,7 +22,7 @@ maybe this
 
 {% embed url="https://www.tutorialspoint.com/python/python_files_io.htm#:~:text=Python%20provides%20basic%20functions%20and%20methods%20necessary%20to,open%20it%20using%20Python%27s%20built-in%20open%20%28%29%20function." %}
 
-![](<../.gitbook/assets/image (220).png>)
+![](<../.gitbook/assets/image (220) (1).png>)
 
 ![](<../.gitbook/assets/image (240) (1).png>)
 
