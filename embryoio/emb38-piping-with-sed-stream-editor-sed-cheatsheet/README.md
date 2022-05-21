@@ -4,7 +4,7 @@
 
 {% embed url="https://linoxide.com/sed-command" %}
 
-![](<../../.gitbook/assets/image (66).png>)
+![](<../../.gitbook/assets/image (66) (1).png>)
 
 ![s for search; replace string](<../../.gitbook/assets/image (215) (1).png>)
 
