@@ -1,3 +1,3 @@
 # emb23
 
-![](<../.gitbook/assets/image (75).png>)
+![](<../.gitbook/assets/image (75) (1).png>)

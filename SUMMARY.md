@@ -101,5 +101,5 @@
   * [emb78: stdin redirection for python script](embryoio/emb78-stdin-redirection-for-python-script.md)
   * [emb79: child and parent having different wd](embryoio/emb79-child-and-parent-having-different-wd.md)
   * [emb80: Multiple Specific argv for binary](embryoio/emb80.md)
-  * [emb81: Set argc==0 for bin](embryoio/emb81-set-argc-0-for-bin.md)
-  * [emb82](embryoio/emb82.md)
+  * [emb81: Set argc==0 for bin](embryoio/emb81.md)
+  * [emb82: Set the environment in c source code](embryoio/emb82-set-the-environment-in-c-source-code.md)

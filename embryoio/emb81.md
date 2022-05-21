@@ -1,4 +1,4 @@
-# emb81
+# emb81: Set argc==0 for bin
 
 ![I need to set argc==0](<../.gitbook/assets/image (153).png>)
 
