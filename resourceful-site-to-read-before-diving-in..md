@@ -8,3 +8,12 @@
 
 ![The dup2(int f\_orig, int f\_new) system call takes two file descriptors as parameters and duplicates the first one (f\_orig) onto the second one (f\_new). If the second file descriptor was referencing a file, that file is closed.](<.gitbook/assets/image (163).png>)
 
+{% embed url="https://www.tutorialspoint.com/cprogramming/c_quick_guide.htm" %}
+c refresher
+{% endembed %}
+
+{% embed url="https://www.tutorialspoint.com/cprogramming/c_pointers.htm" %}
+c point concept refresher
+{% endembed %}
+
+{% embed url="https://pwndevils.com/getting-started#starting-as-a-kilobyte" %}
