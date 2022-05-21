@@ -1,6 +1,6 @@
 # emb77: set multiple argv and env variable in python pwntools
 
-![Should send many arguments](<../.gitbook/assets/image (73).png>)
+![Should send many arguments](<../.gitbook/assets/image (73) (1).png>)
 
 ![now I changed my script](<../.gitbook/assets/image (52).png>)
 
