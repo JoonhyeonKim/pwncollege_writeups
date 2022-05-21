@@ -1,3 +1,3 @@
 # emb7
 
-![](<../../.gitbook/assets/image (169).png>)
+![](<../../.gitbook/assets/image (169) (1).png>)
