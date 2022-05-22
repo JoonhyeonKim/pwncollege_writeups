@@ -2,4 +2,4 @@
 
 ![need to set environment variable](<../.gitbook/assets/image (158).png>)
 
-![so I export it](<../.gitbook/assets/image (196).png>)
+![so I export it](<../.gitbook/assets/image (196) (1).png>)
