@@ -4,6 +4,6 @@
 
 ![Seems like I should pass specific argv to challenge binary](<../.gitbook/assets/image (214) (1).png>)
 
-![Then use 'for' to repeatedly append the value ](<../.gitbook/assets/image (227).png>)
+![Then use 'for' to repeatedly append the value ](<../.gitbook/assets/image (227) (1).png>)
 
 ![I got the flag.](<../.gitbook/assets/image (142).png>)

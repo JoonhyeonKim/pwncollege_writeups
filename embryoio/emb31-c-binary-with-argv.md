@@ -18,6 +18,6 @@ or this one?
 
 ![](<../.gitbook/assets/image (236).png>)
 
-![](<../.gitbook/assets/image (20).png>)
+![](<../.gitbook/assets/image (20) (1).png>)
 
 ![first(argv\[0\]) argument is the program itself's name. Generally ignored. and last argument must be followed by NULL for system to be notifed as the termination. Then argv\[\] is initialized as const.](<../.gitbook/assets/image (219).png>)

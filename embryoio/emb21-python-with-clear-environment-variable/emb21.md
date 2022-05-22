@@ -1,3 +1,3 @@
 # emb21
 
-![Just run env -i ipython](<../../.gitbook/assets/image (110).png>)
+![Just run env -i ipython](<../../.gitbook/assets/image (110) (1).png>)
