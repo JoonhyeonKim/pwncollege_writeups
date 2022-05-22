@@ -106,3 +106,4 @@
   * [emb83: Multiple specific argv, specific env](embryoio/emb83-multiple-specific-argv-specific-env.md)
   * [emb84: chdir for child process and redirecting file to stdin of it](embryoio/emb84-chdir-for-child-process-and-redirecting-file-to-stdin-of-it.md)
   * [emb85: chdir of child process](embryoio/emb85-chdir-of-child-process.md)
+  * [emb86](embryoio/emb86.md)
