@@ -109,3 +109,4 @@
   * [emb86](embryoio/emb86.md)
   * [emb87](embryoio/emb87.md)
   * [emb88: symbolic link](embryoio/emb88-symbolic-link.md)
+  * [emb89: export](embryoio/emb89-export.md)

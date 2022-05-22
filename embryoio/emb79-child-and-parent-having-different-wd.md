@@ -2,7 +2,7 @@
 
 ![Incorrect working directory](<../.gitbook/assets/image (109).png>)
 
-![parent and child should have different working directories](<../.gitbook/assets/image (177).png>)
+![parent and child should have different working directories](<../.gitbook/assets/image (177) (1).png>)
 
 ![Then modify 73rd's source code](<../.gitbook/assets/image (169).png>)
 
