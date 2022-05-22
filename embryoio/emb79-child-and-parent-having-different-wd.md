@@ -6,4 +6,4 @@
 
 ![Then modify 73rd's source code](<../.gitbook/assets/image (169).png>)
 
-![I got the flag.](<../.gitbook/assets/image (243) (1).png>)
+![I got the flag.](<../.gitbook/assets/image (243) (1) (1).png>)
