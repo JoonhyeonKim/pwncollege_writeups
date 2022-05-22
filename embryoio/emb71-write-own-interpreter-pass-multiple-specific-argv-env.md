@@ -10,4 +10,4 @@
 
 ![Then what about this?](<../.gitbook/assets/image (7).png>)
 
-![I get the flag.](<../.gitbook/assets/image (217).png>)
+![I get the flag.](<../.gitbook/assets/image (217) (1).png>)

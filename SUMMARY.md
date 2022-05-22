@@ -110,3 +110,4 @@
   * [emb87](embryoio/emb87.md)
   * [emb88: symbolic link](embryoio/emb88-symbolic-link.md)
   * [🟢 emb89: Set the PATH #](embryoio/emb89-set-the-path.md)
+  * [🟢 emb90: FIFO to std of challenge](embryoio/emb90-fifo-to-std-of-challenge.md)

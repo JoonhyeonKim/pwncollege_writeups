@@ -10,7 +10,7 @@
 
 ![replace all the occurrence of a string in a file(g for global)](<../../.gitbook/assets/image (127).png>)
 
-![replace nth occurrence](<../../.gitbook/assets/image (165).png>)
+![replace nth occurrence](<../../.gitbook/assets/image (165) (1).png>)
 
 ![replace from nth occurrence onward to the end](<../../.gitbook/assets/image (68).png>)
 
@@ -22,6 +22,6 @@
 
 ![Display all lines except pattern matching line](<../../.gitbook/assets/image (5).png>)
 
-![Display replaced lines](<../../.gitbook/assets/image (217) (1).png>)
+![Display replaced lines](<../../.gitbook/assets/image (217) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (231).png>)
