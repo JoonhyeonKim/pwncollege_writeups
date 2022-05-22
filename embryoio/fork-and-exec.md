@@ -18,7 +18,7 @@ meaning, you must start with fork(). since exec\*() doesn't create new pid.(That
 
 ![](<../.gitbook/assets/image (47).png>)
 
-![](<../.gitbook/assets/image (181).png>)
+![](<../.gitbook/assets/image (181) (1).png>)
 
 ![](<../.gitbook/assets/image (48).png>)
 
