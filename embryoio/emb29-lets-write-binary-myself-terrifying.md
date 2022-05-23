@@ -54,7 +54,7 @@ This chapter for fork() and exec\*()
 
 \#include \<unistd.h>
 
-![](<../.gitbook/assets/image (128).png>)
+![](<../.gitbook/assets/image (128) (1).png>)
 
 然后又是一次轮回。
 
