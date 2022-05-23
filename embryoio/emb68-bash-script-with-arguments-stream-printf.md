@@ -8,7 +8,7 @@
 
 {% embed url="https://unix.stackexchange.com/questions/425828/how-to-pass-in-multiple-arguments-to-execute-with-sh-script" %}
 
-![](<../.gitbook/assets/image (18) (1).png>)
+![](<../.gitbook/assets/image (18) (1) (1).png>)
 
 {% embed url="https://www.linuxtoday.com/blog/shell-scripts-multiple-arguments/" %}
 
