@@ -119,3 +119,4 @@
     * [emb94](embryoio/emb94-file-descriptor-fd-and-exec/emb94.md)
   * [emb95](embryoio/emb95.md)
   * [emb96](embryoio/emb96.md)
+  * [🔴 emb97: Signal Sending](embryoio/emb97-signal-sending.md)

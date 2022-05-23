@@ -4,7 +4,7 @@
 
 ![](<../.gitbook/assets/image (137) (1).png>)
 
-![bash -c or sh -c. ](<../.gitbook/assets/image (108).png>)
+![bash -c or sh -c. ](<../.gitbook/assets/image (108) (1).png>)
 
 ![Change the directory of child process. ](<../.gitbook/assets/image (122).png>)
 
