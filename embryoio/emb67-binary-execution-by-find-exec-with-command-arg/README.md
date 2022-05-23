@@ -10,7 +10,7 @@
 
 ![](<../../.gitbook/assets/image (37).png>)
 
-![](<../../.gitbook/assets/image (215).png>)
+![](<../../.gitbook/assets/image (215) (1).png>)
 
 {% embed url="https://www.baeldung.com/linux/find-exec-command" %}
 
@@ -18,7 +18,7 @@
 
 
 
-![](<../../.gitbook/assets/image (76).png>)
+![](<../../.gitbook/assets/image (76) (1).png>)
 
 {% embed url="https://www.howtouselinux.com/post/linux-find-exec-examples-advanced-part" %}
 
