@@ -128,3 +128,4 @@
   * [emb102](embryoio/emb102.md)
   * [🔴 emb103: fifo stdin redirection on python script](embryoio/emb103-fifo-stdin-redirection-on-python-script.md)
   * [🟢 emb104: fifo stdout redirection on python script](embryoio/emb104-fifo-stdout-redirection-on-python-script.md)
+  * [emb105](embryoio/emb105.md)

@@ -1,6 +1,6 @@
 # 🔴 emb72: stdin,stdout,stderr redirection in c \#
 
-![stdin redirection is required, then process| challenge\_executable ??](<../.gitbook/assets/image (119).png>)
+![stdin redirection is required, then process| challenge\_executable ??](<../.gitbook/assets/image (119) (1).png>)
 
 {% embed url="https://people.cs.rutgers.edu/~pxk/416/notes/c-tutorials/dup2.html" %}
 C Tutorial: I/O Redirection

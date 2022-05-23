@@ -6,6 +6,6 @@
 
 ![Now problem's working directory](<../.gitbook/assets/image (74).png>)
 
-![So I did this way. Probably less elegant than other ways.](<../.gitbook/assets/image (24).png>)
+![So I did this way. Probably less elegant than other ways.](<../.gitbook/assets/image (24) (1).png>)
 
 ![](<../.gitbook/assets/image (73).png>)

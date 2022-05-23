@@ -10,4 +10,4 @@
 
 ![Then what about this?](<../.gitbook/assets/image (83) (1).png>)
 
-![It works.](<../.gitbook/assets/image (218).png>)
+![It works.](<../.gitbook/assets/image (218) (1).png>)
