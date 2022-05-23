@@ -1,4 +1,4 @@
-# 🔴 emb90: FIFO(named pipe) to std of challenge
+# 🔴 emb90: FIFO(named pipe) to stdin of challenge
 
 {% embed url="https://www.ibm.com/docs/en/zos/2.3.0?topic=csf-fifo-special-files" %}
 
@@ -14,7 +14,7 @@ FIFO is pipe with name, while regarded as a special file
 
 ![Traditional pipe is ephemeral while named pipe lasts longer](<../../.gitbook/assets/image (217).png>)
 
-![FIFO is special kind of file.](<../../.gitbook/assets/image (221).png>)
+![FIFO is special kind of file. behaving as though pipe.](<../../.gitbook/assets/image (221).png>)
 
 ```
 When fifo is created, it will appear in the current directory in the form of a file, which can only be passed from one to the other

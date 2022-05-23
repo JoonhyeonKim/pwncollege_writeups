@@ -6,7 +6,7 @@
 
 ![](<../../.gitbook/assets/image (58) (1).png>)
 
-![each places are for arguments](<../../.gitbook/assets/image (52) (1) (1).png>)
+![each places are for arguments](<../../.gitbook/assets/image (52) (1) (1) (1).png>)
 
 {% embed url="https://www.digitalocean.com/community/tutorials/how-to-use-subprocess-to-run-external-programs-in-python-3" %}
 

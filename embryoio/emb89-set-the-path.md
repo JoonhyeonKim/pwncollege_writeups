@@ -12,6 +12,6 @@ export A = B for setting variable
 
 Such that
 
-![](<../.gitbook/assets/image (243).png>)
+![](<../.gitbook/assets/image (243) (1).png>)
 
 ![I get the flag.](<../.gitbook/assets/image (78).png>)
