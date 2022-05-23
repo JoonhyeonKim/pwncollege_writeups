@@ -117,3 +117,4 @@
   * [🔴 emb93: ps > fifo1 | bash command < fifo1 > fifo2 | ps fifo2](embryoio/emb93-ps-greater-than-fifo1-or-bash-command-less-than-fifo1-greater-than-fifo2-or-ps-fifo2.md)
   * [🔴 emb94: File Descriptor(FD) and exec](embryoio/emb94-file-descriptor-fd-and-exec/README.md)
     * [emb94](embryoio/emb94-file-descriptor-fd-and-exec/emb94.md)
+    * [emb95](embryoio/emb94-file-descriptor-fd-and-exec/emb95.md)
