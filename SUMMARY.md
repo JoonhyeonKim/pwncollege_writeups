@@ -120,4 +120,5 @@
   * [emb95](embryoio/emb95.md)
   * [emb96](embryoio/emb96.md)
   * [🔴 emb97: Signal Sending](embryoio/emb97-signal-sending/README.md)
-    * [emb97: &](embryoio/emb97-signal-sending/emb97-and.md)
+    * [emb97: &](embryoio/emb97-signal-sending/emb97.md)
+  * [emb98: signal sending](embryoio/emb98-signal-sending.md)
