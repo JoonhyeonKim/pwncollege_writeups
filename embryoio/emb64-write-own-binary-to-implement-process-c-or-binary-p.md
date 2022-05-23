@@ -4,7 +4,7 @@
 
 ![Now I need to do stdin redirection.](<../.gitbook/assets/image (14).png>)
 
-![So I changed my source code like this.](<../.gitbook/assets/image (33).png>)
+![So I changed my source code like this.](<../.gitbook/assets/image (33) (1).png>)
 
 ![Not works. Seems like what checker.py checks is parent process.](<../.gitbook/assets/image (25).png>)
 
