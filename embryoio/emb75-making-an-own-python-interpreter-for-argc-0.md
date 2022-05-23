@@ -2,7 +2,7 @@
 
 ![I need to set empty argv](<../.gitbook/assets/image (49).png>)
 
-![As before, do the compilation with the name 'python'. But this time it fails.](<../.gitbook/assets/image (63).png>)
+![As before, do the compilation with the name 'python'. But this time it fails.](<../.gitbook/assets/image (63) (1).png>)
 
 Maybe is it because of symbolic link?
 

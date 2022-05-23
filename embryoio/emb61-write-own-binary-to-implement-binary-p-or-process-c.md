@@ -1,6 +1,6 @@
 # emb61: write own binary to implement 'binary(p)|process(c)'
 
-![says you need to use grep](<../.gitbook/assets/image (147).png>)
+![says you need to use grep](<../.gitbook/assets/image (147) (1).png>)
 
 ![So I changed.](<../.gitbook/assets/image (170) (1).png>)
 
