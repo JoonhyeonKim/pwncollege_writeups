@@ -27,7 +27,7 @@
   * [emb17](embryoio/emb17.md)
   * [emb18: subprocess with environment variable](embryoio/emb18-subprocess-with-environment-variable/README.md)
     * [emb18](embryoio/emb18-subprocess-with-environment-variable/emb18.md)
-  * [🟢 emb19: python subprocess module with stdin redirection\*](embryoio/emb19-python-subprocess-module-with-stdin-redirection.md)
+  * [🔴 emb19: python subprocess module with stdin redirection\*](embryoio/emb19-python-subprocess-module-with-stdin-redirection.md)
   * [emb19](embryoio/emb19.md)
   * [emb20](embryoio/emb20.md)
   * [subprocess run vs Popen](embryoio/subprocess-run-vs-popen.md)

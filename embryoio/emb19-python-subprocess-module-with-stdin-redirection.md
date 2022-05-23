@@ -1,4 +1,4 @@
-# 🟢 emb19: python subprocess module with stdin redirection\*
+# 🔴 emb19: python subprocess module with stdin redirection\*
 
 then maybe I should use like proc = subprocess.Popen(\["command"]); proc.stdin.write("file\_path")
 
