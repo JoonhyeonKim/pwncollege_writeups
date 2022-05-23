@@ -113,4 +113,4 @@
   * [🟢 emb90: FIFO(named pipe) to std of challenge](embryoio/emb90-fifo-named-pipe-to-std-of-challenge/README.md)
     * [emb90](embryoio/emb90-fifo-named-pipe-to-std-of-challenge/emb90.md)
   * [emb91: stdout redirection of challenge to fifo](embryoio/emb91-stdout-redirection-of-challenge-to-fifo.md)
-  * [emb92](embryoio/emb92.md)
+  * [emb92: stdin to challenge, stdout of challenge to process](embryoio/emb92-stdin-to-challenge-stdout-of-challenge-to-process.md)

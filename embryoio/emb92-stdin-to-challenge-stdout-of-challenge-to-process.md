@@ -1,4 +1,4 @@
-# emb92
+# emb92: stdin to challenge, stdout of challenge to process
 
 ![I need to redirect fifo to stdin of challenge](<../.gitbook/assets/image (165).png>)
 
