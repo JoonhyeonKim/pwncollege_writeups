@@ -126,3 +126,4 @@
   * [emb100](embryoio/emb100.md)
   * [emb101: symbolic link with python script](embryoio/emb101-symbolic-link-with-python-script.md)
   * [emb102](embryoio/emb102.md)
+  * [emb103: fifo stdin redirection on python script](embryoio/emb103-fifo-stdin-redirection-on-python-script.md)
