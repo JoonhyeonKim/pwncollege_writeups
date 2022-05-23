@@ -4,7 +4,7 @@
 
 ![I should have passed multiple arguments](<../.gitbook/assets/image (83).png>)
 
-![So I mend my source code](<../.gitbook/assets/image (152) (1).png>)
+![So I mend my source code](<../.gitbook/assets/image (152) (1) (1).png>)
 
 ![Then this time instruction said I need environment variable '130'](<../.gitbook/assets/image (23) (1).png>)
 

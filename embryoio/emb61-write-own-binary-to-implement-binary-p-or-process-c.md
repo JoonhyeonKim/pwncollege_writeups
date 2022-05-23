@@ -2,7 +2,7 @@
 
 ![says you need to use grep](<../.gitbook/assets/image (147).png>)
 
-![So I changed.](<../.gitbook/assets/image (170).png>)
+![So I changed.](<../.gitbook/assets/image (170) (1).png>)
 
 ![I got the flag.](<../.gitbook/assets/image (40) (1).png>)
 

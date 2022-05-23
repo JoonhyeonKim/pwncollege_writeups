@@ -8,7 +8,7 @@ export A = B for setting variable
 
 {% embed url="https://opensource.com/article/17/6/set-path-linux" %}
 
-![](<../.gitbook/assets/image (152).png>)
+![](<../.gitbook/assets/image (152) (1).png>)
 
 Such that
 
