@@ -4,7 +4,7 @@
 
 {% embed url="https://www.geeksforgeeks.org/how-to-run-bash-script-in-python" %}
 
-![](<../../.gitbook/assets/image (58).png>)
+![](<../../.gitbook/assets/image (58) (1).png>)
 
 ![each places are for arguments](<../../.gitbook/assets/image (52) (1) (1).png>)
 

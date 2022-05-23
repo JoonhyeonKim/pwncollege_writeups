@@ -24,4 +24,4 @@ then env -i python also possible?
 
 I am not sure
 
-![](<../../.gitbook/assets/image (179) (1).png>)
+![](<../../.gitbook/assets/image (179) (1) (1).png>)

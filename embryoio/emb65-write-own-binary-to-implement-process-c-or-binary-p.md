@@ -4,6 +4,6 @@
 
 ![So I remedied my source code.](<../.gitbook/assets/image (38) (1).png>)
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 ![And don't forget to send EOF(End of File), ctrl+d.](<../.gitbook/assets/image (102).png>)

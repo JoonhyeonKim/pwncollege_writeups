@@ -1,6 +1,6 @@
 # 🟢 emb67: binary execution by 'find -exec' with command arg \#
 
-![Run a test binary shows that I need to execute 'find'](<../../.gitbook/assets/image (179).png>)
+![Run a test binary shows that I need to execute 'find'](<../../.gitbook/assets/image (179) (1).png>)
 
 ![Meaning I should give an argument to find process.](<../../.gitbook/assets/image (136).png>)
 
