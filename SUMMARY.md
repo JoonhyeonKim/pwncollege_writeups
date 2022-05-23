@@ -123,3 +123,4 @@
     * [emb97: &](embryoio/emb97-signal-sending/emb97.md)
   * [emb98: signal sending](embryoio/emb98-signal-sending.md)
   * [emb99: sending stdin to python script](embryoio/emb99-sending-stdin-to-python-script.md)
+  * [emb100](embryoio/emb100.md)

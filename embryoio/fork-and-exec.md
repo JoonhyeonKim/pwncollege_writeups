@@ -10,7 +10,7 @@ meaning, you must start with fork(). since exec\*() doesn't create new pid.(That
 
 {% embed url="https://iximiuz.com/en/posts/how-to-on-processes" %}
 
-![pid\_t data type](<../.gitbook/assets/image (60).png>)
+![pid\_t data type](<../.gitbook/assets/image (60) (1).png>)
 
 ![fork() creates a new process by duplicating the calling process](<../.gitbook/assets/image (111).png>)
 
