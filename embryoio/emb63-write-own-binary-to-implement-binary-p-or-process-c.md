@@ -4,6 +4,6 @@
 
 ![After changing the grand child's process to rev I got this.](<../.gitbook/assets/image (72) (1).png>)
 
-![and send the raw flag to flag file](<../.gitbook/assets/image (80).png>)
+![and send the raw flag to flag file](<../.gitbook/assets/image (80) (1).png>)
 
 ![And doing a rev again.](<../.gitbook/assets/image (91).png>)

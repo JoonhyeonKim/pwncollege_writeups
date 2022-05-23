@@ -8,7 +8,7 @@ FIFO is pipe with name, while regarded as a special file
 
 {% embed url="https://www.linuxjournal.com/content/using-named-pipes-fifos-bash" %}
 
-![mkfifo command creates fifo special file, named pipe. ](<../../.gitbook/assets/image (165).png>)
+![mkfifo command creates fifo special file, named pipe. ](<../../.gitbook/assets/image (165) (1).png>)
 
 {% embed url="https://www.geeksforgeeks.org/named-pipe-fifo-example-c-program/" %}
 

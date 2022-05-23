@@ -4,13 +4,13 @@
 
 {% embed url="https://linoxide.com/sed-command" %}
 
-![](<../../.gitbook/assets/image (66) (1).png>)
+![](<../../.gitbook/assets/image (66) (1) (1).png>)
 
 ![s for search; replace string](<../../.gitbook/assets/image (215) (1).png>)
 
 ![replace all the occurrence of a string in a file(g for global)](<../../.gitbook/assets/image (127).png>)
 
-![replace nth occurrence](<../../.gitbook/assets/image (165) (1).png>)
+![replace nth occurrence](<../../.gitbook/assets/image (165) (1) (1).png>)
 
 ![replace from nth occurrence onward to the end](<../../.gitbook/assets/image (68).png>)
 
