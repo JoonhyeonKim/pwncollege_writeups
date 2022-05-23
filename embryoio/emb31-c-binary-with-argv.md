@@ -16,7 +16,7 @@ or this one?
 
 {% embed url="https://stackoverflow.com/questions/48675520/hardcoding-or-substituting-char-argv-in-c" %}
 
-![](<../.gitbook/assets/image (236).png>)
+![](<../.gitbook/assets/image (236) (1).png>)
 
 ![](<../.gitbook/assets/image (20) (1).png>)
 
