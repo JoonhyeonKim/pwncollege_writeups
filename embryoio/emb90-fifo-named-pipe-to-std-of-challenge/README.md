@@ -1,4 +1,4 @@
-# 🟢 emb90: FIFO(named pipe) to std of challenge
+# 🔴 emb90: FIFO(named pipe) to std of challenge
 
 {% embed url="https://www.ibm.com/docs/en/zos/2.3.0?topic=csf-fifo-special-files" %}
 

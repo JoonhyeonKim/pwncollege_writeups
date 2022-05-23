@@ -1,4 +1,4 @@
-# emb93: ps > fifo1 | bash command < fifo1 > fifo2 | ps fifo2
+# 🔴 emb93: ps > fifo1 | bash command < fifo1 > fifo2 | ps fifo2
 
 ![stdin redirection required again](<../.gitbook/assets/image (64).png>)
 
