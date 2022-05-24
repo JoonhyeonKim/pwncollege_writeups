@@ -6,7 +6,7 @@
 
 ![](<../.gitbook/assets/image (52).png>)
 
-![](<../.gitbook/assets/image (59).png>)
+![](<../.gitbook/assets/image (59) (1).png>)
 
 ![passfds \[stdin,stdout,stderr,fd user defined\]](<../.gitbook/assets/image (75).png>)
 
