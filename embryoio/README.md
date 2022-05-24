@@ -11,3 +11,5 @@ emb 90, 93, 103 - 104(python), 106(python and random input) for fifo references.
 emb 94 for fd and exec&#x20;
 
 emb 97 for signal sending and &
+
+emb 107 for fd and os.dup2 in python
