@@ -1,6 +1,6 @@
 # 🔴 emb94: File Descriptor(FD) and exec
 
-![file descriptor? ](<../../.gitbook/assets/image (9).png>)
+![file descriptor? ](<../../.gitbook/assets/image (9) (1).png>)
 
 {% embed url="https://stackoverflow.com/questions/5256599/what-are-file-descriptors-explained-in-simple-terms" %}
 
