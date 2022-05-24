@@ -6,7 +6,7 @@
 
 ![](<../../.gitbook/assets/image (66) (1) (1).png>)
 
-![s for search; replace string](<../../.gitbook/assets/image (215) (1) (1).png>)
+![s for search; replace string](<../../.gitbook/assets/image (215) (1) (1) (1).png>)
 
 ![replace all the occurrence of a string in a file(g for global)](<../../.gitbook/assets/image (127).png>)
 

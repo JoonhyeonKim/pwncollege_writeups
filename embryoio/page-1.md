@@ -7,3 +7,13 @@
 ![](<../.gitbook/assets/image (52).png>)
 
 ![](<../.gitbook/assets/image (59).png>)
+
+![passfds \[stdin,stdout,stderr,fd user defined\]](<../.gitbook/assets/image (75).png>)
+
+will it work?
+
+![okay I had a type there,so I fixed.](<../.gitbook/assets/image (64).png>)
+
+![Then, for the possible user interaction, I background the script and then redirecting cat to t1's stdin](<../.gitbook/assets/image (215).png>)
+
+I get the flag then.

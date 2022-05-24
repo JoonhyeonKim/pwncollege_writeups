@@ -2,7 +2,7 @@
 
 ![Lucky that what I have to send is SIGINT, ctrl + c](<../../.gitbook/assets/image (57).png>)
 
-![I should use &](<../../.gitbook/assets/image (215).png>)
+![I should use &](<../../.gitbook/assets/image (215) (1).png>)
 
 {% embed url="https://www.linux.com/training-tutorials/and-ampersand-and-linux/" %}
 

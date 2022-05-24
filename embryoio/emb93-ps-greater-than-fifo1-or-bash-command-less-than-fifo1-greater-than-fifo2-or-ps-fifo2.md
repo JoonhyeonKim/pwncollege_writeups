@@ -1,6 +1,6 @@
 # 🔴 emb93: ps > fifo1 | bash command < fifo1 > fifo2 | ps fifo2
 
-![stdin redirection required again](<../.gitbook/assets/image (64).png>)
+![stdin redirection required again](<../.gitbook/assets/image (64) (1).png>)
 
 ![Also stdout redirected from the challenge](<../.gitbook/assets/image (182).png>)
 

@@ -10,7 +10,7 @@
 
 ![](<../../.gitbook/assets/image (37).png>)
 
-![](<../../.gitbook/assets/image (215) (1).png>)
+![](<../../.gitbook/assets/image (215) (1) (1).png>)
 
 {% embed url="https://www.baeldung.com/linux/find-exec-command" %}
 
