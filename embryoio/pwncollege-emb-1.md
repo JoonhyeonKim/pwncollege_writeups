@@ -1,6 +1,6 @@
 # pwncollege emb 1
 
-![readelf -a \[file\] | grep interpret](<../.gitbook/assets/image (238).png>)
+![readelf -a \[file\] | grep interpret](<../.gitbook/assets/image (238) (1).png>)
 
 and then ./
 

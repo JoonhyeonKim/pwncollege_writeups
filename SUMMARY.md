@@ -133,3 +133,4 @@
   * [🔴 emb107: fd in python, python's os.dup2()](embryoio/page-1.md)
   * [emb108: stdin over stderr](embryoio/emb108-stdin-over-stderr.md)
   * [emb109: stdin over stdout](embryoio/emb109-stdin-over-stdout.md)
+  * [emb110: Sending Signal for python script](embryoio/emb110-sending-signal-for-python-script.md)
