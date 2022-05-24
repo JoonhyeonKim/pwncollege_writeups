@@ -6,4 +6,4 @@ I used my binary with chainging name to bash and using pipe
 
 But just executing embryoio directly with bash, using pipe
 
-![works too](<../.gitbook/assets/image (29) (1).png>)
+![works too](<../.gitbook/assets/image (29) (1) (1).png>)

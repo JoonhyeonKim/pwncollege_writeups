@@ -2,7 +2,7 @@
 
 ![Need to redirect file to stdin of challenge binary](<../.gitbook/assets/image (34).png>)
 
-![Okay then from the home directory](<../.gitbook/assets/image (29).png>)
+![Okay then from the home directory](<../.gitbook/assets/image (29) (1).png>)
 
 ![Now problem's working directory](<../.gitbook/assets/image (74) (1).png>)
 

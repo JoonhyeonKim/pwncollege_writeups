@@ -132,3 +132,4 @@
   * [🔴 emb106: stdin/out on python with fifo with random question](embryoio/emb106-stdin-out-on-python-with-fifo-with-random-question.md)
   * [🔴 emb107: fd in python, python's os.dup2()](embryoio/page-1.md)
   * [emb108: stdin over stderr](embryoio/emb108-stdin-over-stderr.md)
+  * [emb109: stdin over stdout](embryoio/emb109-stdin-over-stdout.md)
