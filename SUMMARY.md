@@ -78,7 +78,7 @@
   * [emb57: stdout redirection by python script, binary | rev](embryoio/emb57-stdout-redirection-by-python-script-binary-or-rev.md)
   * [🟢 emb58: stdin redirection by python script, cat | binary #](embryoio/emb58-stdin-redirection-by-python-script-cat-or-binary.md)
   * [emb59:stdin redirection by python script, rev | binary](embryoio/emb59-stdin-redirection-by-python-script-rev-or-binary.md)
-  * [🟢 emb60: write own binary to implement 'binary(p)| process(c)'](embryoio/emb60-write-own-binary-to-implement-binary-p-or-process-c.md)
+  * [🔴 emb60: write own binary to implement 'binary(p)| process(c)'](embryoio/emb60-write-own-binary-to-implement-binary-p-or-process-c.md)
   * [emb61: write own binary to implement 'binary(p)|process(c)'](embryoio/emb61-write-own-binary-to-implement-binary-p-or-process-c.md)
   * [emb62: write own binary to implement 'binary(p)| process(c)'](embryoio/emb62-write-own-binary-to-implement-binary-p-or-process-c.md)
   * [emb63: write own binary to implement 'binary(p)| process(c)'](embryoio/emb63-write-own-binary-to-implement-binary-p-or-process-c.md)
