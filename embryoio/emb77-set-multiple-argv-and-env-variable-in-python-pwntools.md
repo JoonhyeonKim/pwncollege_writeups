@@ -2,7 +2,7 @@
 
 ![Should send many arguments](<../.gitbook/assets/image (73) (1).png>)
 
-![now I changed my script](<../.gitbook/assets/image (52) (1).png>)
+![now I changed my script](<../.gitbook/assets/image (52) (1) (1).png>)
 
 ![Then now I should set environment variable](<../.gitbook/assets/image (69).png>)
 

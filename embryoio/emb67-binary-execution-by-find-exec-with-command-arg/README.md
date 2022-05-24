@@ -6,7 +6,7 @@
 
 {% embed url="https://unix.stackexchange.com/questions/389705/understanding-the-exec-option-of-find" %}
 
-![](<../../.gitbook/assets/image (59).png>)
+![](<../../.gitbook/assets/image (59) (1).png>)
 
 ![](<../../.gitbook/assets/image (37).png>)
 

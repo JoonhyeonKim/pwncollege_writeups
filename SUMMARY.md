@@ -130,4 +130,4 @@
   * [🟢 emb104: fifo stdout redirection on python script](embryoio/emb104-fifo-stdout-redirection-on-python-script.md)
   * [emb105](embryoio/emb105.md)
   * [🔴 emb106: stdin/out on python with fifo with random question](embryoio/emb106-stdin-out-on-python-with-fifo-with-random-question.md)
-  * [emb107: fd in python, python's os.dup2()](embryoio/emb107-fd-in-python-pythons-os.dup2.md)
+  * [emb107: fd in python, python's os.dup2()](embryoio/page-1.md)

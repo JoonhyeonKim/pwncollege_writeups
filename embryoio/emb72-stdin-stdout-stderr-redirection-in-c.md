@@ -6,7 +6,7 @@
 C Tutorial: I/O Redirection
 {% endembed %}
 
-![](<../.gitbook/assets/image (52) (1) (1).png>)
+![](<../.gitbook/assets/image (52) (1) (1) (1).png>)
 
 file descriptor: 0 => stdin, 1=> stdout, 2=> stderr
 
