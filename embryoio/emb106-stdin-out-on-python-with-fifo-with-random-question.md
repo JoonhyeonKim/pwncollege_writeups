@@ -1,4 +1,4 @@
-# emb106
+# 🔴 emb106: stdin/out on python with fifo with random question
 
 ![stdin redirection to the challenge required](<../.gitbook/assets/image (74).png>)
 

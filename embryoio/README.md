@@ -6,7 +6,7 @@ emb 67 for find exec
 
 emb 71, 72, 73, 75 for c references.
 
-emb 90, 93, 103 - 104(python) for fifo references.
+emb 90, 93, 103 - 104(python), 106(python and random input) for fifo references.
 
 emb 94 for fd and exec&#x20;
 

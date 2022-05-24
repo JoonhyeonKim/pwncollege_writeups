@@ -129,5 +129,5 @@
   * [🔴 emb103: fifo stdin redirection on python script](embryoio/emb103-fifo-stdin-redirection-on-python-script.md)
   * [🟢 emb104: fifo stdout redirection on python script](embryoio/emb104-fifo-stdout-redirection-on-python-script.md)
   * [emb105](embryoio/emb105.md)
-  * [emb106](embryoio/emb106.md)
+  * [🔴 emb106: stdin/out on python with fifo with random question](embryoio/emb106-stdin-out-on-python-with-fifo-with-random-question.md)
   * [Page 1](embryoio/page-1.md)
