@@ -139,3 +139,4 @@
   * [emb113](embryoio/emb113.md)
   * [emb114: set argv\[0\] in c](embryoio/emb114-set-argv-0-in-c.md)
   * [emb115](embryoio/emb115.md)
+  * [emb116: mkfifo in c](embryoio/emb116-mkfifo-in-c.md)

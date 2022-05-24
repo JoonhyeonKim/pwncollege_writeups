@@ -1,4 +1,4 @@
-# 🟢 emb60: write own binary to implement 'binary(p)| process(c)'
+# 🔴 emb60: write own binary to implement 'binary(p)| process(c)'
 
 ![Again, it is time for me to write my own binary.](<../.gitbook/assets/image (31) (1) (1).png>)
 

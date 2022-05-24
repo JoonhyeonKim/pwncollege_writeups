@@ -18,6 +18,10 @@ c refresher
 c point concept refresher
 {% endembed %}
 
+{% embed url="https://tutorialspoint.dev/language/c" %}
+
+{% embed url="https://tutorialspoint.dev/computer-science/operating-systems/" %}
+
 {% embed url="https://pwndevils.com/getting-started#starting-as-a-kilobyte" %}
 
 {% embed url="https://www.tutorialspoint.com/python/index.htm" %}
