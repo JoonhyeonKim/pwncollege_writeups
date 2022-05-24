@@ -6,7 +6,7 @@ char \*name_of_env\[] = {};
 
 {% embed url="https://stackoverflow.com/questions/15058946/setting-environment-variable-in-c" %}
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 {% embed url="https://www.ibm.com/docs/en/zos/2.4.0?topic=functions-setenv-add-delete-change-environment-variables" %}
 

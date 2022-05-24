@@ -9,3 +9,9 @@ Then probably cat receiving fifo and does stdout and the challenge binary takes 
 {% embed url="https://tutorialspoint.dev/computer-science/operating-systems/named-pipe-fifo-example-c-program" %}
 
 {% embed url="https://www.geeksforgeeks.org/named-pipe-fifo-example-c-program/" %}
+
+![](<../.gitbook/assets/image (162).png>)
+
+![Just like before, I use two terminals trick](<../.gitbook/assets/image (35).png>)
+
+![](<../.gitbook/assets/image (6).png>)

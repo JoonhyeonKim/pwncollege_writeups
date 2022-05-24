@@ -38,6 +38,6 @@ meaning, you must start with fork(). since exec\*() doesn't create new pid.(That
 
 ![](<../.gitbook/assets/image (26) (1).png>)
 
-![Observe the exactly same PID](<../.gitbook/assets/image (35).png>)
+![Observe the exactly same PID](<../.gitbook/assets/image (35) (1).png>)
 
 ![](<../.gitbook/assets/image (150).png>)
