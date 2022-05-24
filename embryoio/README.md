@@ -13,3 +13,7 @@ emb 94 for fd and exec&#x20;
 emb 97 for signal sending and &
 
 emb 107 for fd and os.dup2 in python
+
+
+
+emb 106, 110, 111 : Solved with multiple terminals
