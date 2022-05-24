@@ -1,6 +1,6 @@
 # emb32: c binary with environment variable
 
-![](<../.gitbook/assets/image (126).png>)
+![](<../.gitbook/assets/image (126) (1).png>)
 
 But maybe one can use this
 
