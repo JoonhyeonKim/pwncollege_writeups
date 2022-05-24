@@ -22,6 +22,6 @@
 
 ![Display all lines except pattern matching line](<../../.gitbook/assets/image (5).png>)
 
-![Display replaced lines](<../../.gitbook/assets/image (217) (1) (1).png>)
+![Display replaced lines](<../../.gitbook/assets/image (217) (1) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (231).png>)

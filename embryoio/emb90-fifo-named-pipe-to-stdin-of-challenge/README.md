@@ -12,7 +12,7 @@ FIFO is pipe with name, while regarded as a special file
 
 {% embed url="https://www.geeksforgeeks.org/named-pipe-fifo-example-c-program/" %}
 
-![Traditional pipe is ephemeral while named pipe lasts longer](<../../.gitbook/assets/image (217).png>)
+![Traditional pipe is ephemeral while named pipe lasts longer](<../../.gitbook/assets/image (217) (1).png>)
 
 ![FIFO is special kind of file. behaving as though pipe.](<../../.gitbook/assets/image (221).png>)
 
