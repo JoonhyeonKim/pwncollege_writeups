@@ -7,3 +7,5 @@ Then probably cat receiving fifo and does stdout and the challenge binary takes 
 {% embed url="https://www.ibm.com/docs/en/zos/2.1.0?topic=functions-mkfifo-make-fifo-special-file" %}
 
 {% embed url="https://tutorialspoint.dev/computer-science/operating-systems/named-pipe-fifo-example-c-program" %}
+
+{% embed url="https://www.geeksforgeeks.org/named-pipe-fifo-example-c-program/" %}
