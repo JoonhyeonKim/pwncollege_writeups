@@ -2,7 +2,7 @@
 
 Easier way
 
-![where < /tmp/aladwv part is read as argument](<../.gitbook/assets/image (61).png>)
+![where < /tmp/aladwv part is read as argument](<../.gitbook/assets/image (61) (1).png>)
 
 Harder way
 

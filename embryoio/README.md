@@ -16,4 +16,4 @@ emb 107 for fd and os.dup2 in python
 
 
 
-emb 106, 110, 111, 116, 118 : Solved with multiple terminals
+emb 106, 110, 111, 116, 118, 119 : Solved with multiple terminals
