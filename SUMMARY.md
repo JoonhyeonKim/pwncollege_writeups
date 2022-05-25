@@ -141,3 +141,4 @@
   * [emb115](embryoio/emb115.md)
   * [emb116: mkfifo in c](embryoio/emb116-mkfifo-in-c.md)
   * [emb117](embryoio/emb117.md)
+  * [emb118: stdin from fifo1 and bin's stdout to fifo2 and fifo2's stdin](embryoio/emb118-stdin-from-fifo1-and-bins-stdout-to-fifo2-and-fifo2s-stdin.md)
