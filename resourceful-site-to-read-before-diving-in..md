@@ -1,5 +1,7 @@
 # Resourceful Site to read, before diving in.
 
+{% embed url="https://securityeducationresourcecollection.net/" %}
+
 {% embed url="https://tc.gts3.org/cs6265/2019/tut/tut03-02-pwntools.html" %}
 
 {% embed url="https://caprinux.github.io/lawofpwn/" %}
