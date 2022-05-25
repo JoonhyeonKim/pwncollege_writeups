@@ -1,6 +1,6 @@
 # emb66: find the binary and then execute it. 'find -exec'
 
-![So I need to execute find](<../.gitbook/assets/image (18) (1) (1) (1).png>)
+![So I need to execute find](<../.gitbook/assets/image (18) (1) (1) (1) (1).png>)
 
 
 

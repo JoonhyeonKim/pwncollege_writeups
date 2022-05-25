@@ -8,7 +8,7 @@
 
 {% embed url="https://en.wikipedia.org/wiki/File_descriptor" %}
 
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)
 
 And to manipulate fd&#x20;
 
