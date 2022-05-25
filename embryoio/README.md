@@ -8,7 +8,7 @@ emb 60(c redirection), 71, 72, 73, 75, 118(multiple files, dup2) for c reference
 
 emb 90, 93, 103 - 104(python), 106(python and random input) for fifo references.
 
-emb 94 for fd and exec&#x20;
+emb 94 for fd and exec in bash
 
 emb 97 for signal sending and &
 
