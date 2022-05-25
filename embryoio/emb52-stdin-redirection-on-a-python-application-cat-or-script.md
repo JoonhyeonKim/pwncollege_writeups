@@ -12,6 +12,6 @@ with errors
 
 while here is more canonical way
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 But it does not work. suggested solution was writing p1.sendline() before the p2=process()

@@ -143,3 +143,4 @@
   * [emb117](embryoio/emb117.md)
   * [emb118: stdin from fifo1 and bin's stdout to fifo2 and fifo2's stdin](embryoio/emb118-stdin-from-fifo1-and-bins-stdout-to-fifo2-and-fifo2s-stdin.md)
   * [emb119: Similar to 118](embryoio/emb119-similar-to-118.md)
+  * [emb120](embryoio/emb120.md)

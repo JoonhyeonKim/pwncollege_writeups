@@ -1,6 +1,6 @@
 # emb48: script | cat
 
-![is it because p1 lives longer thus p2 injects its outout to p2?](<../.gitbook/assets/image (1).png>)
+![is it because p1 lives longer thus p2 injects its outout to p2?](<../.gitbook/assets/image (1) (1).png>)
 
 ![](<../.gitbook/assets/image (232).png>)
 
