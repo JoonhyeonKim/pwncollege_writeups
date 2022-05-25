@@ -2,4 +2,4 @@
 
 ![This time I need sed](<../.gitbook/assets/image (166).png>)
 
-![So I changed the source code, and then I get the flag.](<../.gitbook/assets/image (95).png>)
+![So I changed the source code, and then I get the flag.](<../.gitbook/assets/image (95) (1).png>)

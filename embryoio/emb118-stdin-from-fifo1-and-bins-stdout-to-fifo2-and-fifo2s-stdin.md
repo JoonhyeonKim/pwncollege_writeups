@@ -2,3 +2,4 @@
 
 ![](<../.gitbook/assets/image (2).png>)
 
+![Then from the other terminal< send a string to first fifo.](<../.gitbook/assets/image (95).png>)
