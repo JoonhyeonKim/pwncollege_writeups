@@ -1,6 +1,6 @@
 # emb9
 
-![](<../.gitbook/assets/image (154).png>)
+![](<../.gitbook/assets/image (154) (1).png>)
 
 or
 
