@@ -1,6 +1,6 @@
 # emb84: chdir for child process and redirecting file to stdin of it
 
-![I should redirect certain file to stdin of challenge binary](<../.gitbook/assets/image (110) (1).png>)
+![I should redirect certain file to stdin of challenge binary](<../.gitbook/assets/image (110) (1) (1).png>)
 
 ![Then might I use 72nd's source code?](<../.gitbook/assets/image (227).png>)
 
