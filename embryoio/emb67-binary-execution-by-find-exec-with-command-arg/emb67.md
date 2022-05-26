@@ -4,6 +4,6 @@
 
 thus
 
-![](<../../.gitbook/assets/image (109) (1).png>)
+![](<../../.gitbook/assets/image (109) (1) (1).png>)
 
 ![Now I finally got the flag.](<../../.gitbook/assets/image (134).png>)
