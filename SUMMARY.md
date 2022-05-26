@@ -148,3 +148,4 @@
   * [emb122](embryoio/emb122.md)
   * [emb123](embryoio/emb123.md)
   * [emb124](embryoio/emb124.md)
+  * [emb125: automatic problem solver in python](embryoio/emb125-automatic-problem-solver-in-python.md)

@@ -14,6 +14,8 @@ emb 97 for signal sending and &
 
 emb 107 for fd and os.dup2 in python
 
+emb 125 for automatic problem solver in python
+
 
 
 emb 106, 110, 111, 116, 118, 119, 123, 124 : Solved with multiple terminals

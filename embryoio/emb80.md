@@ -1,6 +1,6 @@
 # emb80: Multiple Specific argv for binary
 
-![So it is another binary challenge](<../.gitbook/assets/image (220).png>)
+![So it is another binary challenge](<../.gitbook/assets/image (220) (1).png>)
 
 ![Should pass multiple arguments ](<../.gitbook/assets/image (18) (1) (1).png>)
 
