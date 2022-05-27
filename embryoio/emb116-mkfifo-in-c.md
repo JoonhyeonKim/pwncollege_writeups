@@ -12,6 +12,6 @@ Then probably cat receiving fifo and does stdout and the challenge binary takes 
 
 ![](<../.gitbook/assets/image (162).png>)
 
-![Just like before, I use two terminals trick](<../.gitbook/assets/image (35).png>)
+![Just like before, I use two terminals trick](<../.gitbook/assets/image (35) (1).png>)
 
 ![](<../.gitbook/assets/image (6).png>)
