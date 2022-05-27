@@ -1,3 +1,7 @@
+---
+description: Or while diving in, if you are like me.
+---
+
 # Resourceful Site to read, before diving in.
 
 {% embed url="https://securityeducationresourcecollection.net/" %}
@@ -27,3 +31,5 @@ c point concept refresher
 {% embed url="https://pwndevils.com/getting-started#starting-as-a-kilobyte" %}
 
 {% embed url="https://www.tutorialspoint.com/python/index.htm" %}
+
+{% embed url="https://www.binarytides.com/socket-programming-c-linux-tutorial/" %}
