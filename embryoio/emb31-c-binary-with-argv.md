@@ -1,6 +1,6 @@
 # emb31: c binary with argv\[]
 
-![](<../.gitbook/assets/image (221) (1).png>)
+![](<../.gitbook/assets/image (221) (1) (1).png>)
 
 then I tried to do most sane way to add argument
 
