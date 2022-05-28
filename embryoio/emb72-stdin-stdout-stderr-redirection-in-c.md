@@ -24,4 +24,4 @@ stdin redirection with opened file
 
 ![okay then](<../.gitbook/assets/image (72).png>)
 
-![I get the flag.](<../.gitbook/assets/image (39).png>)
+![I get the flag.](<../.gitbook/assets/image (39) (1).png>)
