@@ -14,4 +14,4 @@ then here I should use
 
 ln -s /challenge/embryoio\_level88 /tmp/uhvird
 
-![with modified script. Then I get the flag.](<../.gitbook/assets/image (223).png>)
+![with modified script. Then I get the flag.](<../.gitbook/assets/image (223) (1).png>)

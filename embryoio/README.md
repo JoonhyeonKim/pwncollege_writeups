@@ -18,6 +18,8 @@ emb 125 for automatic numeric problem solver in python
 
 emb 127 for automatic signal sender in python
 
+emb 134 for automatic problem solvers with pipes in python
+
 
 
 emb 106, 110, 111, 116, 118, 119, 123, 124 : Solved with multiple terminals

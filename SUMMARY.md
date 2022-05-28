@@ -154,3 +154,7 @@
   * [emb128: 500 signals sender](embryoio/emb128-500-signals-sender.md)
   * [emb129](embryoio/emb129.md)
   * [emb130](embryoio/emb130.md)
+  * [emb131](embryoio/emb131.md)
+  * [emb132](embryoio/emb132.md)
+  * [emb133](embryoio/emb133.md)
+  * [emb134](embryoio/emb134.md)

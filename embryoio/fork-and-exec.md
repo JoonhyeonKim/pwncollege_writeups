@@ -34,7 +34,7 @@ meaning, you must start with fork(). since exec\*() doesn't create new pid.(That
 
 ![v for argv\[\] as vector](<../.gitbook/assets/image (99) (1) (1).png>)
 
-![](<../.gitbook/assets/image (30) (1).png>)
+![](<../.gitbook/assets/image (30) (1) (1).png>)
 
 ![](<../.gitbook/assets/image (26) (1).png>)
 

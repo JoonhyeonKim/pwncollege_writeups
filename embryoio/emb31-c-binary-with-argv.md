@@ -4,7 +4,7 @@
 
 then I tried to do most sane way to add argument
 
-![](<../.gitbook/assets/image (209) (1).png>)
+![](<../.gitbook/assets/image (209) (1) (1).png>)
 
 But obviously not works, then
 
