@@ -175,3 +175,5 @@
     * [File upload(php-webshell) - Double extensions(php.jpg or jpg.php)](rootme/web-server/file-upload-php-webshell-double-extensions-php.jpg-or-jpg.php.md)
     * [File upload - MIME type](rootme/web-server/file-upload-mime-type.md)
     * [HTTP - Cookies(For state)](rootme/web-server/http-cookies-for-state.md)
+    * [Insecure Code Management(git cat-file)](rootme/web-server/insecure-code-management-git-cat-file.md)
+    * [JSON Web Token (JWT) - Introduction(none, no key)](rootme/web-server/json-web-token-jwt-introduction-none-no-key.md)
