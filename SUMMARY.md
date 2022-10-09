@@ -180,3 +180,4 @@
     * [Directory traversal](rootme/web-server/directory-traversal.md)
     * [File upload - Null byte(%00)](rootme/web-server/file-upload-null-byte-00.md)
     * [JSON Web Token (JWT) - Weak secret (key brute-forcing)](rootme/web-server/json-web-token-jwt-weak-secret-key-brute-forcing.md)
+    * [JWT - Revoked token(Black list, Expire bypass)](rootme/web-server/jwt-revoked-token-black-list-expire-bypass.md)
