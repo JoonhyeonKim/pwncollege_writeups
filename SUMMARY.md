@@ -177,3 +177,5 @@
     * [HTTP - Cookies(For state)](rootme/web-server/http-cookies-for-state.md)
     * [Insecure Code Management(git cat-file)](rootme/web-server/insecure-code-management-git-cat-file.md)
     * [JSON Web Token (JWT) - Introduction(none, no key)](rootme/web-server/json-web-token-jwt-introduction-none-no-key.md)
+    * [Directory traversal](rootme/web-server/directory-traversal.md)
+    * [File upload - Null byte(%00)](rootme/web-server/file-upload-null-byte-00.md)
