@@ -168,3 +168,4 @@
     * [HTTP - Directory indexing](rootme/web-server/http-directory-indexing.md)
     * [HTTP - Headers](rootme/web-server/http-headers.md)
     * [HTTP - POST](rootme/web-server/http-post.md)
+    * [HTTP - Improper redirect(EAR)](rootme/web-server/http-improper-redirect-ear.md)
