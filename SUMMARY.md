@@ -185,3 +185,4 @@
     * [PHP - Filters (lfi,php://filter/convert.base64-encode/resource)](rootme/web-server/php-filters-lfi-php-filter-convert.base64-encode-resource.md)
     * [Python - Server-side Template Injection Introduction](rootme/web-server/python-server-side-template-injection-introduction.md)
     * [File upload - ZIP(To infilterate the index.php, ln -s)](rootme/web-server/file-upload-zip-to-infilterate-the-index.php-ln-s.md)
+    * [Command injection - Filter bypass(Front end Filter can be checked in web dev tool, and bypassed by j](rootme/web-server/command-injection-filter-bypass-front-end-filter-can-be-checked-in-web-dev-tool-and-bypassed-by-j.md)
