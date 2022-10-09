@@ -173,3 +173,4 @@
     * [Install files(dir-busting)](rootme/web-server/install-files-dir-busting.md)
     * [CRLF(%0D%0A)](rootme/web-server/crlf-0d-0a.md)
     * [File upload(php-webshell) - Double extensions(php.jpg or jpg.php)](rootme/web-server/file-upload-php-webshell-double-extensions-php.jpg-or-jpg.php.md)
+    * [File upload - MIME type](rootme/web-server/file-upload-mime-type.md)
