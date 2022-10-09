@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Pwn College Introduction](README.md)
 * [Resourceful Site to read, before diving in.](resourceful-site-to-read-before-diving-in..md)
 * [embryoio](embryoio/README.md)
   * [pwncollege emb 1](embryoio/pwncollege-emb-1.md)
@@ -158,3 +158,6 @@
   * [emb132](embryoio/emb132.md)
   * [emb133](embryoio/emb133.md)
   * [emb134](embryoio/emb134.md)
+* [RootMe](rootme/README.md)
+  * [Web Server](rootme/web-server/README.md)
+    * [HTTP - Open redirect](rootme/web-server/http-open-redirect.md)
