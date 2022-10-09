@@ -164,3 +164,4 @@
     * [HTTP - IP restriction bypass](rootme/web-server/http-ip-restriction-bypass.md)
     * [HTTP - User-agent](rootme/web-server/http-user-agent.md)
     * [PHP - Command injection](rootme/web-server/php-command-injection.md)
+    * [Backup file(ffuf)](rootme/web-server/backup-file-ffuf.md)
