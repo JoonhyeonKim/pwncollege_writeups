@@ -183,3 +183,4 @@
     * [JWT - Revoked token(Black list, Expire bypass)](rootme/web-server/jwt-revoked-token-black-list-expire-bypass.md)
     * [PHP - assert()(lfi-die), Bypassing filter](rootme/web-server/php-assert-lfi-die-bypassing-filter.md)
     * [PHP - Filters (lfi,php://filter/convert.base64-encode/resource)](rootme/web-server/php-filters-lfi-php-filter-convert.base64-encode-resource.md)
+    * [Python - Server-side Template Injection Introduction](rootme/web-server/python-server-side-template-injection-introduction.md)
