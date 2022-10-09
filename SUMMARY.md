@@ -162,3 +162,4 @@
   * [Web Server](rootme/web-server/README.md)
     * [HTTP - Open redirect](rootme/web-server/http-open-redirect.md)
     * [HTTP - IP restriction bypass](rootme/web-server/http-ip-restriction-bypass.md)
+    * [HTTP - User-agent](rootme/web-server/http-user-agent.md)
