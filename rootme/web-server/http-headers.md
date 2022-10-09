@@ -1,0 +1,19 @@
+# HTTP - Headers
+
+Request
+
+GET /web-serveur/ch5/ HTTP/1.1 Host: challenge01.root-me.org User-Agent: Mozilla/5.0 (X11; Linux x86\_64; rv:91.0) Gecko/20100101 Firefox/91.0 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,_/_;q=0.8 Accept-Language: en-US,en;q=0.5 Accept-Encoding: gzip, deflate Connection: close Cookie: \_ga\_SRYSKX09J7=GS1.1.1661131878.13.1.1661135774.0.0.0; \_ga=GA1.1.536088429.1661133467 Upgrade-Insecure-Requests: 1 Cache-Control: max-age=0
+
+***
+
+Response
+
+HTTP/1.1 200 OK Server: nginx Date: Mon, 22 Aug 2022 02:49:42 GMT Content-Type: text/html; charset=UTF-8 Connection: close Vary: Accept-Encoding Header-RootMe-Admin: none Content-Length: 272
+
+Content is not the only part of an HTTP response!
+
+***
+
+then Requset modified
+
+GET /web-serveur/ch5/ HTTP/1.1 Host: challenge01.root-me.org User-Agent: Mozilla/5.0 (X11; Linux x86\_64; rv:91.0) Gecko/20100101 Firefox/91.0 Header-RootMe-Admin: aa Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,_/_;q=0.8 Accept-Language: en-US,en;q=0.5 Accept-Encoding: gzip, deflate Connection: close Cookie: \_ga\_SRYSKX09J7=GS1.1.1661131878.13.1.1661135774.0.0.0; \_ga=GA1.1.536088429.1661133467 Upgrade-Insecure-Requests: 1 Cache-Control: max-age=0
