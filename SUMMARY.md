@@ -179,3 +179,4 @@
     * [JSON Web Token (JWT) - Introduction(none, no key)](rootme/web-server/json-web-token-jwt-introduction-none-no-key.md)
     * [Directory traversal](rootme/web-server/directory-traversal.md)
     * [File upload - Null byte(%00)](rootme/web-server/file-upload-null-byte-00.md)
+    * [JSON Web Token (JWT) - Weak secret (key brute-forcing)](rootme/web-server/json-web-token-jwt-weak-secret-key-brute-forcing.md)
