@@ -83,9 +83,13 @@ options to check the allowed http verbs
 
 you can use GET /endpoint?file=name request as the testing ground for directory traversal and lfi&#x20;
 
-if you can write at that end point, you can probably do command injection redirect, even rce
 
-send feedback functionality for cmd injection since nowadays cmd injection barely happens
+
+GET /endpoint?file=../../../etc/passwd and **the trailing escaper's number is determined by the result from the feroxbuster**
+
+send feedback functionality for cmd injection&#x20;
+
+since nowadays cmd injection barely happens
 
 ***
 
