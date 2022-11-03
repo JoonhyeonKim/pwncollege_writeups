@@ -97,7 +97,7 @@ since nowadays cmd injection barely happens
 
 maybe the order of finding vulns
 
-* os command injection to all the params and fields -> sqli, nosqli, ldapi, xss -> feroxbuster to find the base directory of resources -> directory traversal or open redirect -> lfi, rfi
+* os command injection to all the params and fields -> sqli, nosqli, ldapi, xss -> feroxbuster to find the base directory of resources -> os command injection to all the params and fields -> sqli, nosqli, ldapi, xss -> directory traversal or open redirect -> lfi, rfi
 * flow study -> find a token or code -> search for what grant that token(generally auth->token\_granter->authenticated->logged-in) -> binder url or token granter url sending
 * flow study -> capture the api call -> tampering the values -> check the response for that value
 
