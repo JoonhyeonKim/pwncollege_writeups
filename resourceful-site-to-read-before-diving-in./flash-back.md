@@ -73,6 +73,10 @@ directory traversal -> lfi&#x20;
 
 open redirect -> rfi
 
+
+
+you can use GET /endpoint?file=name request as the testing ground for directory traversal and lfi if you can write at that end point, you can probably do command injection redirect, even rce
+
 ***
 
 document.getElementById("").innerHTML for checking and changing values of web elements
