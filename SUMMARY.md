@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Pwn College Introduction](README.md)
-* [Resourceful Site to read, before diving in.](resourceful-site-to-read-before-diving-in./README.md)
+* [Resourceful Site to read, before diving in.](resourceful-site-to-read-before-diving-in..md)
   * [Flash back](resourceful-site-to-read-before-diving-in./flash-back.md)
 * [embryoio](embryoio/README.md)
   * [pwncollege emb 1](embryoio/pwncollege-emb-1.md)

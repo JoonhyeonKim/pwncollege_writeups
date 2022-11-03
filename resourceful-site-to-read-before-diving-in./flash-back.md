@@ -75,4 +75,4 @@ open redirect -> rfi
 
 ***
 
-document.getElementById("").innerHTML for checking and changin**g** values of web elements
+document.getElementById("").innerHTML for checking and changing values of web elements
