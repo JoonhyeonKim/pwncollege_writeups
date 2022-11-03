@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Pwn College Introduction](README.md)
-* [Resourceful Site to read, before diving in.](resourceful-site-to-read-before-diving-in..md)
+* [Resourceful Site to read, before diving in.](resourceful-site-to-read-before-diving-in./README.md)
+  * [Flash back](resourceful-site-to-read-before-diving-in./flash-back.md)
 * [embryoio](embryoio/README.md)
   * [pwncollege emb 1](embryoio/pwncollege-emb-1.md)
   * [emb 3](embryoio/emb-3.md)
@@ -187,4 +188,3 @@
     * [File upload - ZIP(To infilterate the index.php, ln -s)](rootme/web-server/file-upload-zip-to-infilterate-the-index.php-ln-s.md)
     * [Command injection - Filter bypass(Front end Filter can be checked in web dev tool, and bypassed by j](rootme/web-server/command-injection-filter-bypass-front-end-filter-can-be-checked-in-web-dev-tool-and-bypassed-by-j.md)
     * [Java - Server-side Template Injection](rootme/web-server/java-server-side-template-injection.md)
-* [Flash back](flash-back.md)
