@@ -75,7 +75,17 @@ open redirect -> rfi
 
 
 
-you can use GET /endpoint?file=name request as the testing ground for directory traversal and lfi if you can write at that end point, you can probably do command injection redirect, even rce
+feroxbuster to find the directory&#x20;
+
+options to check the allowed http verbs
+
+
+
+you can use GET /endpoint?file=name request as the testing ground for directory traversal and lfi&#x20;
+
+if you can write at that end point, you can probably do command injection redirect, even rce
+
+send feedback functionality for cmd injection since nowadays cmd injection barely happens
 
 ***
 
